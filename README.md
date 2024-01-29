@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+abode....)](https://git.io/typing-svg)
+# Snow~ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+abode....+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @SnofIake
 - 👀 I’m interested in ...
