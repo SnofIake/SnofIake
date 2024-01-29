@@ -1,5 +1,6 @@
 # Snow~ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+abode....+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
+![Star](https://custom-icon-badges.demolab.com/badge/-Twinkle-gold?style=for-the-badge&logo=star&logoColor=black)
 
 - 👋 Hi, I’m @SnofIake
 - 👀 I’m interested in ...
