@@ -3,6 +3,9 @@
 ![Star](https://custom-icon-badges.demolab.com/badge/-Twinkle-gold?style=for-the-badge&logo=star&logoColor=black)
 ![Canva](https://custom-icon-badges.demolab.com/badge/-Canva-AFEEEE?style=for-the-badge&logo=Canva&logoColor=black)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SnofIake/SnofIake/blob/0ebbdecc0dd5fc97a39cf57ecebf1a958fc47d04/.img/1706624113977.png)
+
+<hr>
 - 👋 Hi, I’m @SnofIake
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
