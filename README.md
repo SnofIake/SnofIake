@@ -3,7 +3,7 @@
 ![Star](https://custom-icon-badges.demolab.com/badge/-Twinkle-gold?style=for-the-badge&logo=star&logoColor=black)
 ![Canva](https://custom-icon-badges.demolab.com/badge/-Canva-AFEEEE?style=for-the-badge&logo=Canva&logoColor=black)
 
-![pfp](.img/1706624113977.png)
+![pfp](https://raw.githubusercontent.com/SnofIake/SnofIake/4fcc8950f76894784bed46d8c13c1f91181d4252/.img/1706624113977.png)
 
 ***
 
