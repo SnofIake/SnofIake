@@ -1,0 +1,62 @@
+.card-container {
+  margin-top: 55px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  /*  height: 300px; */
+  border-radius: 12px;
+  border: 1px #232a46de solid;
+  overflow: hidden;
+  background: #121212;
+  transition: 0.3s ease-in-out;
+}
+
+.card-container p {
+    letter-spacing: 0px;
+}
+
+.card-container:hover {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+.top-card {
+  background-image: url(../.img/bg/classroom_1.png);
+  background-repeat:no-repeat;
+  background-size: 100% auto;
+  height: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.top-card img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 12px solid #121212;
+  transform: translateY(55px);
+  z-index: 1;
+}
+
+.bottom-card {
+  height: auto;
+  padding-top: 45px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.card-des {
+    text-align: justify;
+    background: #181818;
+    transform: translateY(-20px);
+    padding: 8px;
+    margin: 10px;
+    border: #1f243dee solid 0.5px;
+    border-radius: 5px;
+}
+
+.card-des p {
+    color: #b3b3b3f8;
+}
+
