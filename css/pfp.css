@@ -21,10 +21,10 @@
 
 
 .top-card {
-  background-image: url(../.img/bg/classroom_1.png);
+  background-image: url(../img/bg/classroom_1.png);
   background-repeat:no-repeat;
   background-size: 100% auto;
-  height: 140px;
+  height: 160px;
   display: flex;
   justify-content: center;
   align-items: flex-end;
