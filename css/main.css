@@ -16,6 +16,7 @@ body {
 
 a, button {
     -webkit-tap-highlight-color: transparent;
+    font-family: 'DM Sans', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -51,6 +52,19 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 16.6px;
 }
 
+
+/* buttons */
+.BWbut {
+    width:185px;height:50px;padding-top:6px;padding-bottom:6px;padding-right:12px;padding-left:12px;border-radius:5px;border: solid white 0.8px;border-bottom: 4px white solid;background:#181818;color:white;font-family: 'Days One', sans-serif;
+    transition: 0.3s ease-in-out;
+}
+
+.BWbut:hover {
+    border-bottom: 0.8px white solid;
+}
+
+/* end 👇 */
+
 .tsi {
     background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0.75), rgba(0,0,0, 0.5), rgba(0,0,0,0.25), rgba(0,0,0,0.01)), url('../img/1703431207461.png');
     background-size: 100% auto;
@@ -68,3 +82,4 @@ h1,h2,h3,h4,h5,h6 {
     transition: ease-in 2s;
     opacity: 1;*/
 }
+
