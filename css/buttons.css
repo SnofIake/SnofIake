@@ -2,6 +2,7 @@
 .BWbut {
     width:185px;height:50px;padding-top:6px;padding-bottom:6px;padding-right:12px;padding-left:12px;border-radius:5px;border: solid white 0.8px;border-bottom: 4px white solid;background:#181818;color:white;font-family: 'Days One', sans-serif;
     transition: 0.3s ease-in-out;
+    margin: 8px;
 }
 
 .BWbut:hover {

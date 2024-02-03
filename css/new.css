@@ -1,0 +1,39 @@
+.container {
+    margin: 30px;
+    padding: 0px;
+    background: #121212;
+    height: auto;
+    border-radius: 15px;
+    border: solid 1px #232a46de;
+}
+
+.container h3 {
+    margin: 14px;
+}
+
+.container img {
+    width: 68px;
+    border-radius: 10px;
+    border: solid #121212 4px;
+    margin: 18px;
+    transform: translateY(98px) ;
+}
+
+
+.gtop-display {
+    background-image: linear-gradient(to top, rgb(18, 18, 18), rgba(0,0,0,0.25),  rgba(0,0,0,0) ), url('../img/bg/magic_mt.png');
+    background-size: 100% auto;
+    height: 180px;
+    margin: 0;
+    border-top-radius: 6px;
+}
+
+.cont-des {
+    text-align: justify;
+    background: #181818;
+    padding: 8px;
+    margin: 18px;
+    border: #1f243dee solid 0.5px;
+    border-radius: 5px;
+}
+
